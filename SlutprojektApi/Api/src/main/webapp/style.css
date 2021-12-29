@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+*{
+	text-align: center;
+    background-color:cadetblue;
+}
+
+
+
+img{
+	margin: 2rem;
+	width: 50rem;
+	border-radius: 10%;
+}
+
+#city{
+	margin: 20px;
+}
+    
+#button{
+	margin: 20px;
+}
+
+#all{
+	margin: 200px;
+}
